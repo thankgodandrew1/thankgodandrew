@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thankgodandrew1
+- 👋 Hi, I’m @thankgodandrew1 Andrew ThankGod
 - 👀 I’m interested in ... Web and Computer Programming
 - 🌱 I’m currently learning ... Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
