@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thankgodandrew1 Andrew ThankGod
 - 👀 I’m interested in ... Web and Computer Programming
-- 🌱 I’m currently learning ... Python, HTML, CSS
+- 🌱 I’m currently learning ... Python, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... and22046@byui.edu
 
