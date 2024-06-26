@@ -6,7 +6,7 @@ I'm ThankGod Andrew, a student at Brigham Young University-Idaho interested in S
 
 ## About Me
 
-- I'm currently learning ... Kotlin, C#, and UX Design, and Improving my understanding of other languages, frameworks, and tools I have learned.
+- I'm currently learning ... Kotlin, C#, and UX Design, and Improving my understanding of other programming languages, frameworks, and tools I have learned.
 - My goal ... is to become a reputable Software Developer who puts the end-users first in every decision in the software development process.
 - Ask me ... about my journey learning Kotlin, C#, and UX Design, or how I prioritize end-users in software development!
 
