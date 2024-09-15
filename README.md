@@ -73,3 +73,6 @@ Description 7: Leverages Typescript, TailwindCSS Next.js, and React to create a 
 
 
 Feel free to explore my repositories there are other great projects there and don't hesitate to reach out. Happy coding! 🚀
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSeNYis6TX-Rz4y16NrQ9QylIdnSPYKTG_EU6c02bO852gZThA/viewform
