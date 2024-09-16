@@ -1,4 +1,4 @@
-hi# ThankGod Andrew
+okhi# ThankGod Andrew
 
 Hello, GitHub! 👋
 
@@ -14,7 +14,7 @@ I'm ThankGod Andrew, a student at Brigham Young University-Idaho interested in S
 ---
 ## Technologies and Tools
 
-- Skills: Leadership, Problem-Solving, Teamwork, Debugging and Testing, Software Development, Data Structures, Object Oriented Programming (OOP), Web Development, Database Management (SQL databases: MySQL, NoSQL databases: MongoDB), API Integration.
+- Skills: Leadership, Problem-Solving, Teamwork, Debugging and Testing, Software Development, Data Structures, Object Oriented Programming (OOP), Web Development, Database Management (SQL databases: MySQL, NoSQL databases: MongoDB, Google Firebase), API Integration.
   
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
