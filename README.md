@@ -1,4 +1,4 @@
-okhi# ThankGod Andrew
+# ThankGod Andrew
 
 Hello, GitHub! 👋
 
