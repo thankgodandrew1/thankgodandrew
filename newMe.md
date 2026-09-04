@@ -60,7 +60,7 @@ The project includes a dedicated Python backend and Next.js frontend, shared pac
 
 The project currently stops deliberately at the payment boundary rather than pretending to implement functionality that does not yet exist.
 
-→ **[Explore Broda](https://github.com/thankgodandrew1/broda)**
+> 🔒 **Private project — currently in development**
 
 ---
 
@@ -98,7 +98,7 @@ Many organizations still operate through a combination of:
 
 MOMS explores what happens when those processes are instead represented as **one coherent operational system**.
 
-→ **[Explore MOMS](https://github.com/thankgodandrew1/moms)**
+> 🔒 **Private project — currently in development**
 
 ---
 
@@ -114,9 +114,10 @@ The project is currently in active development and represents another direction 
 
 `Next.js` · `TypeScript` · `React`
 
-→ **[Explore Minutes](https://github.com/thankgodandrew1/minutes)**
+> 🔒 **Private project — currently in development**
 
 ---
+
 
 # ⚙️ Automation Projects
 
