@@ -363,6 +363,13 @@ If the problem is complicated, repetitive, poorly structured, or interesting eno
 
 **GitHub:** [@thankgodandrew1](https://github.com/thankgodandrew1)
 
+**Phone:**
++2349029919743
+
+**WhatsApp:**
+
++2349029919843
+
 ---
 
 <p align="center"> <i>“The best software doesn't make complicated things look complicated.”</i> </p>
